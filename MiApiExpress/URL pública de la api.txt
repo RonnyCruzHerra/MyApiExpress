@@ -1,0 +1,1 @@
+https://api-ronny-app.yellowsmoke-25dbe62d.eastus2.azurecontainerapps.io/api/status
